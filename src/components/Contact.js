@@ -21,7 +21,7 @@ function Contact(props) {
 }
 
 Contact.propTypes = {
-    online: PropTypes.boolean.isRequired,
+    online: PropTypes.bool.isRequired,
     name: PropTypes.string.isRequired,
     image: PropTypes.string.isRequired,
   };
