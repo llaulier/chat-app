@@ -1,4 +1,7 @@
+This project is available on [CodeSandBox](https://codesandbox.io/s/github/llaulier/chat-app/tree/contact-state)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
